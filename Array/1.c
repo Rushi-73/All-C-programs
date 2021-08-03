@@ -9,7 +9,7 @@ void main()
     int a[10],n,i,sum=0;
     printf("Please enter the number of  elements\n");
     scanf("%d",&n);
-    /* taking input numbers from users*/
+    /* taking input numbers from users from console*/
     if(n<=0 && n>10)
     {
       printf("Please enter valid number of elements");
