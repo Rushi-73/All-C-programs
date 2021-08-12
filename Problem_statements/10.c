@@ -14,8 +14,8 @@ void main()
    given by user */
    while(num != 0)
    {
-      num=num/10;
-      cnt++;
+      num=num/10;   
+      cnt++;     //counting  number of digits
    }
  printf("Count of number of digits in a number is %d",cnt);
 }      
