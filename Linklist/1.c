@@ -1,6 +1,5 @@
 /*Name : Sonawane Rushikesh Ganesh
-ID      : 1126
-Batch : PPA8*/
+*/
 //Write a C program to create singly linked list and sort it in ascendingorder
 #include<stdio.h>
 #include<stdlib.h>
@@ -25,7 +24,7 @@ struct node* createnode()
 	else
 	{
 		printf("enter the value\n");
-		scanf("%d", &a);
+		scanf("%d", &a);                    //getting input from console
 		newnode->data = a;
 		newnode->next = NULL;
 	}
