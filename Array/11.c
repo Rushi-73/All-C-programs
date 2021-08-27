@@ -1,6 +1,4 @@
 /*Name : Sonawane Rushikesh Ganesh
-ID      : 1126
-Batch : PPA8
 write program to sort the array in ascending order*/
 #include<stdio.h>
 void main()
@@ -9,7 +7,7 @@ void main()
     printf("Please enter the number of  elements\n");
     scanf("%d",&n);
     
-    if(n<=0 && n>10)
+    if(n<=0 && n>10) //checking the enter number is less than size of array or not
     {
       printf("Please enter valid number of elements");
     }
