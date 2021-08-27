@@ -1,7 +1,5 @@
 /*
 Name : Sonawane Rushikesh Ganesh
-ID      : 1126
-Batch : PPA8
 Write a program in C to find the maximum / minimum element in an array.*/
 
 #include<stdio.h>
@@ -33,6 +31,7 @@ void main()
      {
           case 1:
               max=a[0];
+             //for finding maximum element in array
               for(i=0;i<n;i++)
              {
                  if(max<a[i])
@@ -42,6 +41,7 @@ void main()
              break;
           case 2:
               min=a[0];
+             //for finding minimum element in  array
               for(i=0;i<n;i++)
               {
                 if(min>a[i])
