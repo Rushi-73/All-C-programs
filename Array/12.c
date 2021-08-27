@@ -1,7 +1,5 @@
 /*
 Name : Sonawane Rushikesh Ganesh
-ID      : 1126
-Batch : PPA8
 Write a program in C to delete an element at desired position from an array.*/
 #include<stdio.h>
 void main()
