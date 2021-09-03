@@ -1,6 +1,4 @@
 /*Name : Sonawane Rushikesh Ganesh
-ID      : 1126
-Batch : PPA8
 Write a C program to replace given one value with first occurrence of
 value in given linked list.*/
 #include<stdio.h>
