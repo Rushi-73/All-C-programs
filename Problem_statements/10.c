@@ -1,7 +1,5 @@
 /*
 Name : Sonawane Rushikesh Ganesh
-ID      : 1126
-Batch : PPA8
 Write a C program to count number of digits in a number.*/
 #include<stdio.h>
 
