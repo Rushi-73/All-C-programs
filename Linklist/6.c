@@ -1,6 +1,5 @@
 /*Name : Sonawane Rushikesh Ganesh
-ID      : 1126
-Batch : PPA8*/
+*/
 //Write a C program to print singly linked list in reverse order.
 #include<stdio.h>
 #include<stdlib.h>
