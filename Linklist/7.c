@@ -1,6 +1,5 @@
 /*Name : Sonawane Rushikesh Ganesh
-ID      : 1126
-Batch : PPA8*/
+*/
 //Write a C program to create linked list with multiple strings.
 #include<stdio.h>
 #include<stdlib.h>
